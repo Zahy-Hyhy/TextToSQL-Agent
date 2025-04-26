@@ -1,3 +1,2 @@
 # Ignore virtual environments
 sql/
-__pycache__/
